@@ -13,7 +13,7 @@ import com.google.android.material.textfield.TextInputLayout
 import com.vishnusivadas.advanced_httpurlconnection.PutData
 
 class LoginActivity : AppCompatActivity() {
-
+vhnv
     private fun saveUserToPreferences(context: Context, user: String) {
         val sharedPreferences: SharedPreferences = context.getSharedPreferences("UserPref", Context.MODE_PRIVATE)
         val editor = sharedPreferences.edit()
