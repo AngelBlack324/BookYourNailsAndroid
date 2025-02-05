@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83839321096",
+    "project_id": "upang-parking-space",
+    "storage_bucket": "upang-parking-space.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83839321096:android:83fa5aa991900d8e647dbd",
+        "android_client_info": {
+          "package_name": "com.example.upangparkingspacetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTBf3HnjNVKKlDZw3r6RwG2Q4PsfcLbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
