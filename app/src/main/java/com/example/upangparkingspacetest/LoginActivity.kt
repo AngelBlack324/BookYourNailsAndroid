@@ -20,7 +20,7 @@ class LoginActivity : AppCompatActivity() {
         editor.putString("user_data", user)
         editor.apply() // Use apply() for async saving, or commit() for synchronous saving
     }
-
+jfjfnf
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN)
